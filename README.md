@@ -1,4 +1,4 @@
-# 🍽️ Restaurant Simulation (SimPy)
+# Restaurant Simulation (SimPy)
 
 ## Overview
 
