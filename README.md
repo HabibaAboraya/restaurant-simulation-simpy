@@ -136,7 +136,7 @@ See full report here:
 
 ---
 
-## 🧠 Key Concepts Demonstrated
+##  Key Concepts Demonstrated
 
 * Discrete-event simulation
 * Resource scheduling
